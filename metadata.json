@@ -1,0 +1,5 @@
+{
+  "name": "Perpetual Spring",
+  "description": "An app that suggests travel destinations for slow-traveling nomads based on current location, passport, weather, and flight costs. It can also generate an ideal 'around the world' path chasing perfect spring temperatures.",
+  "requestFramePermissions": []
+}
